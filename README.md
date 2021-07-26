@@ -1,3 +1,14 @@
+<H1> Application d'aide à la recherche de stage </H1>
+Ce projet a pour but de créer une application web pour la recherche des stages à l’Université de Paris Nanterre. Sur ce voici les fonctionnalités de mon projet.
+
+Nous avons plusieurs intefaces selon la personne qui est connectée soit
+
+-Une interface web de gestion destinée à l’administrateur afin que ce dernier puisse gérer l’application.
+-Une interface web de gestion destinée aux étudiants afin que ces derniers puissent consulter les offres publiées par une entreprise et d’y postuler.
+-Une interface web de gestion destinée aux tuteurs afin que ces derniers puissent accompagner les étudiants.
+-Une interface web de gestion destinée aux entreprises afin que ces dernières puissent publier une offre.
+-Une interface web de gestion destinée aux jurys pour la validation des stages.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
