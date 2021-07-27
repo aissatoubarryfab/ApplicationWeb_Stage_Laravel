@@ -15,9 +15,4 @@ class Etudiants extends Model implements Authenticatable
     protected $fillable=['numEtudiant','nom','prenom','numTel','adresse','CP','ville','niveau',
     'formation','user_id','tuteur_id'];
 
-
-    public function getEtudiantById($query,$id){
-        return  $query->where('user_id','=',$id);
-    }
-
 }
